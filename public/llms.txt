@@ -1,0 +1,105 @@
+# רול-אין — Generative Engine Optimization Map
+
+> A retail shop specializing in bicycles, electric bikes, and electric scooters. The brand aims for a young, cool, and energetic vibe — appealing to urban riders and adventure seekers. The overall aesthetic should feel modern, dynamic, and street-savvy, reflecting the excitement of electric mobility and active urban lifestyle.
+
+---
+
+## Pages
+
+### בית
+https://-42e07bc3.zappy5.app
+רול-אין מזמינה אותך לחוויית רכיבה חשמלית בלי פשרות. קטנועים כמו Xiaomi Mi Electric Scooter Mijia M365 ואופני GreenBike Legend 48V מחכים לך בחנות. הצטרף למהפכה האורבנית עוד היום!
+
+### שירותים
+https://-42e07bc3.zappy5.app/services
+מכיול מנוע GreenBike Legend 48V ועד טיפול מונע לאינוקים OX 48V 21A – צוות המומחים של רול-אין שומר על הכלי שלך חד כתער. קבע תור ותחזור לכבוש את הרחוב במלוא העוצמה!
+
+### אודות
+https://-42e07bc3.zappy5.app/about
+מאחורי רול-אין עומדת תשוקה אמיתית לדו-גלגלי חשמלי ולחופש אורבני. אנחנו בוחרים עבורך רק את הדגמים המנצחים, כמו Xiaomi Mijia M365, ומביאים את תרבות הרכיבה הכי שווה לעיר. בוא לגלות מי אנחנו באמת.
+
+### צור קשר
+https://-42e07bc3.zappy5.app/contact
+יש לך שאלה על אינוקים OX 48V 21A או שאתה חייב לבדוק מקרוב את ה- GreenBike Legend 48V? מלא פרטים וקבל מענה מהיר מצוות רול-אין. אנחנו כאן כדי להזיז אותך קדימה!
+
+### Products
+https://-42e07bc3.zappy5.app/products
+המוצרים שלנו - רול-אין
+
+### Cart
+https://-42e07bc3.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-42e07bc3.zappy5.app/checkout
+תשלום
+
+### Login
+https://-42e07bc3.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-42e07bc3.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-42e07bc3.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-42e07bc3.zappy5.app/product/:slug
+פרטי המוצר - רול-אין
+
+### Category
+https://-42e07bc3.zappy5.app/category/:slug
+מוצרים - רול-אין
+
+### תודה רבה - פנייתך התקבלה | רול-אין
+https://-42e07bc3.zappy5.app/thank-you
+תודה רבה על פנייתך לרול-אין. פנייתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. בינתיים, תוכלו להתרשם ממגוון אופניים חשמליות וקורקינטים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-42e07bc3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-42e07bc3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-42e07bc3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רול-אין
+A retail shop specializing in bicycles, electric bikes, and electric scooters. The brand aims for a young, cool, and energetic vibe — appealing to urban riders and adventure seekers. The overall aesthetic should feel modern, dynamic, and street-savvy, reflecting the excitement of electric mobility and active urban lifestyle.
+
+## Target Audience
+- מבוגרים צעירים ונוסעים לעבודה
+- חובבי כושר עירוניים
+- צרכנים ידידותיים לסביבה
+- נוער
+
+## Industry
+Bicycle & Electric Mobility Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-42e07bc3.zappy5.app/sitemap.xml
+- Robots: https://-42e07bc3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-42e07bc3.zappy5.app/llms-full.txt
+- Products (JSON): https://-42e07bc3.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-42e07bc3.zappy5.app/product-feed.xml
