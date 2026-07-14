@@ -365,13 +365,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "42e07bc3-42ea-4fd5-a5ed-39d811ac73a6";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "42e07bc3-42ea-4fd5-a5ed-39d811ac73a6";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -874,9 +874,9 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -70px !important; padding-top: 70px !important; min-height: 924.286px !important;">
   <!-- Background Image -->
-  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A cinematic urban scene at dusk: a group of young riders on electric bikes and scooters moving dynamically through a modern city bike lane, with warm street lights reflecting off wet asphalt, city skyline in the background, energetic and youthful vibe" width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="רוכבים עירוניים על אופניים חשמליים וקורקינטים בשביל אופניים בעיר בשעת ערב" class="hero-bg-image" decoding="async" />
+  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A cinematic urban scene at dusk: a group of young riders on electric bikes and scooters moving dynamically through a modern city bike lane, with warm street lights reflecting off wet asphalt, city skyline in the background, energetic and youthful vibe" width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="רוכבים עירוניים על אופניים חשמליים וקורקינטים בשביל אופניים בעיר בשעת ערב" class="hero-bg-image" data-hero-background="true" data-element-type="image" data-element-id="img-1784036850688-xqgk2ia06" style="pointer-events: auto !important;" decoding="async" />
 
   <!-- Scrim Overlay for Text Legibility -->
   <div class="hero-scrim" aria-hidden="true"></div>
@@ -904,8 +904,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <h3 class="hero-subtitle">אופניים, אופניים חשמליות וקורקינטים לנסיעה יומיומית ולהרפתקאות סוף שבוע</h3>
     <p class="hero-paragraph">מחפשים את הכלי המושלם לעיר? אנחנו כאן בשביל רוכבים צעירים, נוסעים עירוניים, שוחרי כושר, קונים מודעי סביבה ובני נוער. בואו למצוא את הרכיבה שמתאימה לכם.</p>
     <div class="hero-cta-group">
-      <a href="/contact" class="btn-primary">לייעוץ חינם</a>
-      <a href="/services" class="btn-secondary">תיקונים והתאמות</a>
+      <a href="/contact" class="btn-primary" data-element-type="button" data-element-id="btn-1784036850679-nmy218yk8" data-native-element="true">לייעוץ חינם</a>
+      <a href="/services" class="btn-secondary" data-element-type="button" data-element-id="btn-1784036850679-y5icrdv9i" data-native-element="true">תיקונים והתאמות</a>
     </div>
   </div>
 
@@ -923,11 +923,9 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
         <h2 class="section-title">מוצרים מומלצים</h2>
-        <div class="product-grid featured-grid" id="zappy-featured-products">
-          <div class="loading-products">טוען מוצרים...</div>
-        </div>
-        <div class="view-all-products">
-          <a href="/products" class="btn btn-primary">צפה בכל המוצרים →</a>
+        <div class="product-grid featured-grid" id="zappy-featured-products"><div class="loading-products"></div></div>
+        <div class="view-all-products" style="text-align: center !important; display: flex !important; justify-content: center !important; align-items: flex-start !important; width: 100% !important;">
+          <a href="/products" class="btn btn-primary" data-element-type="button" data-element-id="btn-1784036850679-55q4nebpl" data-native-element="true" style="outline: none; border-color: rgb(16, 33, 63) !important; color: rgb(255, 255, 255) !important; background-color: rgb(16, 33, 63) !important; background-image: none !important;">צפה בכל המוצרים →</a>
         </div>
       </div>
     </section>
