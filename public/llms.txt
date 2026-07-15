@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://roll-in.zappy5.app
 רול-אין מזמינה אותך לחוויית רכיבה חשמלית בלי פשרות. קטנועים כמו Xiaomi Mi Electric Scooter Mijia M365 ואופני GreenBike Legend 48V מחכים לך בחנות. הצטרף למהפכה האורבנית עוד היום!
 
 ### שירותים
-https://example.com/services
+https://roll-in.zappy5.app/services
 מכיול מנוע GreenBike Legend 48V ועד טיפול מונע לאינוקים OX 48V 21A – צוות המומחים של רול-אין שומר על הכלי שלך חד כתער. קבע תור ותחזור לכבוש את הרחוב במלוא העוצמה!
 
 ### אודות
-https://example.com/about
+https://roll-in.zappy5.app/about
 מאחורי רול-אין עומדת תשוקה אמיתית לדו-גלגלי חשמלי ולחופש אורבני. אנחנו בוחרים עבורך רק את הדגמים המנצחים, כמו Xiaomi Mijia M365, ומביאים את תרבות הרכיבה הכי שווה לעיר. בוא לגלות מי אנחנו באמת.
 
 ### צור קשר
-https://example.com/contact
+https://roll-in.zappy5.app/contact
 יש לך שאלה על אינוקים OX 48V 21A או שאתה חייב לבדוק מקרוב את ה- GreenBike Legend 48V? מלא פרטים וקבל מענה מהיר מצוות רול-אין. אנחנו כאן כדי להזיז אותך קדימה!
 
 ### Products
-https://example.com/products
+https://roll-in.zappy5.app/products
 המוצרים שלנו - רול-אין
 
 ### Cart
-https://example.com/cart
+https://roll-in.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://roll-in.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://roll-in.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://roll-in.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://roll-in.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://roll-in.zappy5.app/product/:slug
 פרטי המוצר - רול-אין
 
 ### Category
-https://example.com/category/:slug
+https://roll-in.zappy5.app/category/:slug
 מוצרים - רול-אין
 
 ### תודה רבה - פנייתך התקבלה | רול-אין
-https://example.com/thank-you
+https://roll-in.zappy5.app/thank-you
 תודה רבה על פנייתך לרול-אין. פנייתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. בינתיים, תוכלו להתרשם ממגוון אופניים חשמליות וקורקינטים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://roll-in.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://roll-in.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://roll-in.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Bicycle & Electric Mobility Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://roll-in.zappy5.app/sitemap.xml
+- Robots: https://roll-in.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://roll-in.zappy5.app/llms-full.txt
+- Products (JSON): https://roll-in.zappy5.app/products.json
+- Products (Google Merchant RSS): https://roll-in.zappy5.app/product-feed.xml
